@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+	// find 2nd maximum
 	int n,i,k=0;
 	printf("enter no. of elements:");
 	scanf("%d",&n);
