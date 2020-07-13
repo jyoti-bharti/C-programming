@@ -40,12 +40,12 @@ int main()
 		printf("%d:\t%d\n ",a[i],count);
 		if(count>1)
 		{
-			dn++;
+			dn=count-1;
 			c[i] = a[i];
 		}
 
 	}
-	printf("\nduplicate elements:");
+	printf("\n total duplicate elements:");
 	printf(" %d ",dn);
 
 
