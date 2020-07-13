@@ -2,7 +2,7 @@
 int main()
 {
 	
-	int n,ele,dn=0,count=0;
+	int n,dn=0,count=0;
 	printf("enter no of elements:");
 	scanf("%d",&n);
 	int i, j, k, temp=0;
